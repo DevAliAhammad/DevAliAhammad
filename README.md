@@ -1,4 +1,4 @@
-<img src="ali-ahammad-full-stack-web-developer.jpg">
+<img src="https://drive.google.com/file/d/1jPg3zI5yxryD_-BUbxjuPnRRt31-evFA/view?usp=sharing">
 <h1 align="center">Hi , I'm Ali Ahammad</h1>
 <h3 align="center">Professional WordPress Developer & Web Designer | WordPress Expert | Elementor Pro | WooCommerce | Bootstrap | Responsive & SEO-Friendly Websites | Fast, User-Focused & Conversion-Driven Web Solutions</h3>
 
