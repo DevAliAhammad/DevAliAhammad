@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/file/d/1jPg3zI5yxryD_-BUbxjuPnRRt31-evFA/view?usp=sharing](https://media.canva.com/v2/image-resize/format:PNG/height:639/quality:100/uri:ifs%3A%2F%2FM%2F47b54afb-4b55-4c5d-9935-130ae6b66990/watermark:F/width:1600?csig=AAAAAAAAAAAAAAAAAAAAADMAUbtOyVxv4zm4H45GlIuPMZGfCvI5Ako3Uhfh16L_&exp=1787687435&osig=AAAAAAAAAAAAAAAAAAAAAKG_3Z5-Q0CR6g2ALAf7VOiQWwrCFs8tGDtjiqDvnmJF&signer=media-rpc&x-canva-quality=screen_2x)">
+<img src="https://media.canva.com/v2/image-resize/format:PNG/height:639/quality:100/uri:ifs%3A%2F%2FM%2F47b54afb-4b55-4c5d-9935-130ae6b66990/watermark:F/width:1600?csig=AAAAAAAAAAAAAAAAAAAAADMAUbtOyVxv4zm4H45GlIuPMZGfCvI5Ako3Uhfh16L_&exp=1787687435&osig=AAAAAAAAAAAAAAAAAAAAAKG_3Z5-Q0CR6g2ALAf7VOiQWwrCFs8tGDtjiqDvnmJF&signer=media-rpc&x-canva-quality=screen_2x">
 <h1 align="center">Hi , I'm Ali Ahammad</h1>
 <h3 align="center">Professional WordPress Developer & Web Designer | WordPress Expert | Elementor Pro | WooCommerce | Bootstrap | Responsive & SEO-Friendly Websites | Fast, User-Focused & Conversion-Driven Web Solutions</h3>
 
